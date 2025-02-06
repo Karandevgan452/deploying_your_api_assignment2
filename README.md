@@ -56,6 +56,7 @@ if (isAdmin) {
 
 ---
 
+
 ### **5. Return Different Data**
 Conditionally return different data based on the value of the environment variable. Example:
 ```javascript
